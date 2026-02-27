@@ -14,7 +14,7 @@ Scheduling Scripts with Cron
 Run a health check every day:
 0 2 * * * /home/user/bin/health_check.sh
 
-Run backup rotation every 6 hours:\
+Run backup rotation every 6 hours:
 0 */6 * * * /home/user/bin/backup.sh
 
 Run the service checker every 5
